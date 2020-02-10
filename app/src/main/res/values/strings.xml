@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Lab02 Texts</string>
     <string name="enter_a_name">Enter a name</string>
+    <string name="push">Push</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="hello_world">Hello world</string>
+    <string name="set_name">Set name</string>
+    <string name="change_text">Change text</string>
+    <string-array name="array">
+        <item>fat.</item>
+        <item>beautiful.</item>
+        <item>creative.</item>
+        <item>intelligent.</item>
+    </string-array>
 </resources>

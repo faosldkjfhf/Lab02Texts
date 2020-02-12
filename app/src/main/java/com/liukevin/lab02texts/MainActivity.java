@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     Button arrayButton;
     EditText textBox;
     TextView text;
+    TextView text2;
     String[] array;
     private int count;
     @Override

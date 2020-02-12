@@ -6,6 +6,7 @@
     <string name="hello_world">Hello world</string>
     <string name="set_name">Set name</string>
     <string name="change_text">Change text</string>
+    <string name="hello">Hello</string>
     <string-array name="array">
         <item>fat.</item>
         <item>beautiful.</item>
